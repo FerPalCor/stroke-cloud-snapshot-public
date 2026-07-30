@@ -1,15 +1,15 @@
 {
   "collector": "stroke-github-v1",
   "schema_version": 1,
-  "checked_at": "2026-07-30T14:01:56+02:00",
+  "checked_at": "2026-07-30T16:28:10+02:00",
   "source_url": "https://padelstroke.matchpoint.com.es/Matches/Search.aspx",
   "period_start": "2026-07-30",
   "period_end": "2026-08-02",
   "time_from": "15:30",
   "diagnostics": {
     "success": true,
-    "search_ids_found": 14,
-    "detail_pages_fetched": 14,
+    "search_ids_found": 15,
+    "detail_pages_fetched": 15,
     "detail_pages_failed": 0,
     "failures": []
   },
@@ -126,14 +126,18 @@
         {
           "name": "J2",
           "level": 6.0
+        },
+        {
+          "name": "J3",
+          "level": 6.0
         }
       ],
-      "free_slots": 2,
+      "free_slots": 1,
       "available": true,
       "evidence": {
-        "literal_vacant_boxes": 2,
+        "literal_vacant_boxes": 1,
         "player_boxes_seen": 4,
-        "occupied_boxes_seen": 2,
+        "occupied_boxes_seen": 3,
         "signup_visible": true,
         "title": "Partida Pádel 6,00 - 10,00 31/07/2026 17:30 CLINICA MONLEON"
       }
@@ -213,14 +217,18 @@
         {
           "name": "J1",
           "level": 6.0
+        },
+        {
+          "name": "J2",
+          "level": 6.0
         }
       ],
-      "free_slots": 3,
+      "free_slots": 2,
       "available": true,
       "evidence": {
-        "literal_vacant_boxes": 3,
+        "literal_vacant_boxes": 2,
         "player_boxes_seen": 4,
-        "occupied_boxes_seen": 1,
+        "occupied_boxes_seen": 2,
         "signup_visible": true,
         "title": "Partida Pádel 6,00 - 10,00 01/08/2026 17:00 SEGUROS ALONSO"
       }
@@ -277,6 +285,31 @@
         "occupied_boxes_seen": 1,
         "signup_visible": true,
         "title": "Partida Pádel 5,50 - 10,00 01/08/2026 18:30 CLINICA MONLEON"
+      }
+    },
+    {
+      "id": "bb0f878e60ed60493464edf29a2694de",
+      "url": "https://padelstroke.matchpoint.com.es/Matches/Match.aspx?id=bb0f878e60ed60493464edf29a2694de",
+      "date": "2026-08-01",
+      "start_time": "18:30",
+      "end_time": "20:00",
+      "min_level": 7.0,
+      "max_level": 10.0,
+      "category": "Mixto",
+      "players": [
+        {
+          "name": "J1",
+          "level": 7.0
+        }
+      ],
+      "free_slots": 3,
+      "available": true,
+      "evidence": {
+        "literal_vacant_boxes": 3,
+        "player_boxes_seen": 4,
+        "occupied_boxes_seen": 1,
+        "signup_visible": true,
+        "title": "Partida Pádel 7,00 - 10,00 01/08/2026 18:30 SEGUROS ALONSO"
       }
     }
   ]
