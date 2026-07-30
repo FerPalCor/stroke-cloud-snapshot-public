@@ -1,0 +1,234 @@
+{
+  "collector": "stroke-github-v1",
+  "schema_version": 1,
+  "checked_at": "2026-07-30T11:01:03+02:00",
+  "source_url": "https://padelstroke.matchpoint.com.es/Matches/Search.aspx",
+  "period_start": "2026-07-30",
+  "period_end": "2026-08-02",
+  "time_from": "15:30",
+  "diagnostics": {
+    "success": true,
+    "search_ids_found": 11,
+    "detail_pages_fetched": 11,
+    "detail_pages_failed": 0,
+    "failures": []
+  },
+  "matches": [
+    {
+      "id": "29b40336e50db3a7dfc78ad7be5b78ee",
+      "url": "https://padelstroke.matchpoint.com.es/Matches/Match.aspx?id=29b40336e50db3a7dfc78ad7be5b78ee",
+      "date": "2026-07-31",
+      "start_time": "16:00",
+      "end_time": "17:30",
+      "min_level": 7.0,
+      "max_level": 10.0,
+      "category": "Mixto",
+      "players": [
+        {
+          "name": "J1",
+          "level": 7.0
+        },
+        {
+          "name": "J2",
+          "level": 7.0
+        },
+        {
+          "name": "J3",
+          "level": null
+        }
+      ],
+      "free_slots": 1,
+      "available": true,
+      "evidence": {
+        "literal_vacant_boxes": 1,
+        "player_boxes_seen": 4,
+        "occupied_boxes_seen": 3,
+        "signup_visible": true,
+        "title": "Partida Pádel 7,00 - 10,00 31/07/2026 16:00 CLINICA MONLEON"
+      }
+    },
+    {
+      "id": "0e6959e38a2e7df334e8485a81f44844",
+      "url": "https://padelstroke.matchpoint.com.es/Matches/Match.aspx?id=0e6959e38a2e7df334e8485a81f44844",
+      "date": "2026-07-31",
+      "start_time": "16:30",
+      "end_time": "18:00",
+      "min_level": 8.0,
+      "max_level": 10.0,
+      "category": "Mixto",
+      "players": [
+        {
+          "name": "J1",
+          "level": 8.0
+        }
+      ],
+      "free_slots": 3,
+      "available": true,
+      "evidence": {
+        "literal_vacant_boxes": 3,
+        "player_boxes_seen": 4,
+        "occupied_boxes_seen": 1,
+        "signup_visible": true,
+        "title": "Partida Pádel 8,00 - 10,00 31/07/2026 16:30 SEGUROS ALONSO"
+      }
+    },
+    {
+      "id": "219f6ea41d1adfcb17e40b15369b78ea",
+      "url": "https://padelstroke.matchpoint.com.es/Matches/Match.aspx?id=219f6ea41d1adfcb17e40b15369b78ea",
+      "date": "2026-07-31",
+      "start_time": "17:00",
+      "end_time": "18:30",
+      "min_level": 6.5,
+      "max_level": 10.0,
+      "category": "Mixto",
+      "players": [
+        {
+          "name": "J1",
+          "level": 6.5
+        },
+        {
+          "name": "J2",
+          "level": 6.5
+        }
+      ],
+      "free_slots": 2,
+      "available": true,
+      "evidence": {
+        "literal_vacant_boxes": 2,
+        "player_boxes_seen": 4,
+        "occupied_boxes_seen": 2,
+        "signup_visible": true,
+        "title": "Partida Pádel 6,50 - 10,00 31/07/2026 17:00 AUTOLAVADO GAVIMAR"
+      }
+    },
+    {
+      "id": "0980c274d136dde51858a742aaf3ee5f",
+      "url": "https://padelstroke.matchpoint.com.es/Matches/Match.aspx?id=0980c274d136dde51858a742aaf3ee5f",
+      "date": "2026-07-31",
+      "start_time": "17:30",
+      "end_time": "19:00",
+      "min_level": 6.0,
+      "max_level": 10.0,
+      "category": "Mixto",
+      "players": [
+        {
+          "name": "J1",
+          "level": 6.0
+        }
+      ],
+      "free_slots": 3,
+      "available": true,
+      "evidence": {
+        "literal_vacant_boxes": 3,
+        "player_boxes_seen": 4,
+        "occupied_boxes_seen": 1,
+        "signup_visible": true,
+        "title": "Partida Pádel 6,00 - 10,00 31/07/2026 17:30 CLINICA MONLEON"
+      }
+    },
+    {
+      "id": "91871651337e42ed0c8a6152035ae1ef",
+      "url": "https://padelstroke.matchpoint.com.es/Matches/Match.aspx?id=91871651337e42ed0c8a6152035ae1ef",
+      "date": "2026-07-31",
+      "start_time": "18:00",
+      "end_time": "19:30",
+      "min_level": 5.0,
+      "max_level": 10.0,
+      "category": "Mixto",
+      "players": [
+        {
+          "name": "J1",
+          "level": 5.0
+        }
+      ],
+      "free_slots": 3,
+      "available": true,
+      "evidence": {
+        "literal_vacant_boxes": 3,
+        "player_boxes_seen": 4,
+        "occupied_boxes_seen": 1,
+        "signup_visible": true,
+        "title": "Partida Pádel 5,00 - 10,00 31/07/2026 18:00 SEGUROS ALONSO"
+      }
+    },
+    {
+      "id": "06bf2807a06465f7c41ec224421dd848",
+      "url": "https://padelstroke.matchpoint.com.es/Matches/Match.aspx?id=06bf2807a06465f7c41ec224421dd848",
+      "date": "2026-07-31",
+      "start_time": "20:30",
+      "end_time": "22:00",
+      "min_level": 6.0,
+      "max_level": 10.0,
+      "category": "Mixto",
+      "players": [
+        {
+          "name": "J1",
+          "level": 6.0
+        },
+        {
+          "name": "J2",
+          "level": 6.5
+        }
+      ],
+      "free_slots": 2,
+      "available": true,
+      "evidence": {
+        "literal_vacant_boxes": 2,
+        "player_boxes_seen": 4,
+        "occupied_boxes_seen": 2,
+        "signup_visible": true,
+        "title": "Partida Pádel 6,00 - 10,00 31/07/2026 20:30 CLINICA MONLEON"
+      }
+    },
+    {
+      "id": "3e059f1879d3dc689f790738fc7269d2",
+      "url": "https://padelstroke.matchpoint.com.es/Matches/Match.aspx?id=3e059f1879d3dc689f790738fc7269d2",
+      "date": "2026-08-01",
+      "start_time": "17:00",
+      "end_time": "18:30",
+      "min_level": 6.0,
+      "max_level": 10.0,
+      "category": "Mixto",
+      "players": [
+        {
+          "name": "J1",
+          "level": 6.0
+        }
+      ],
+      "free_slots": 3,
+      "available": true,
+      "evidence": {
+        "literal_vacant_boxes": 3,
+        "player_boxes_seen": 4,
+        "occupied_boxes_seen": 1,
+        "signup_visible": true,
+        "title": "Partida Pádel 6,00 - 10,00 01/08/2026 17:00 SEGUROS ALONSO"
+      }
+    },
+    {
+      "id": "03872fb9033fd4cdb419db1adb57cece",
+      "url": "https://padelstroke.matchpoint.com.es/Matches/Match.aspx?id=03872fb9033fd4cdb419db1adb57cece",
+      "date": "2026-08-01",
+      "start_time": "18:30",
+      "end_time": "20:00",
+      "min_level": 5.0,
+      "max_level": 10.0,
+      "category": "Mixto",
+      "players": [
+        {
+          "name": "J1",
+          "level": 5.0
+        }
+      ],
+      "free_slots": 3,
+      "available": true,
+      "evidence": {
+        "literal_vacant_boxes": 3,
+        "player_boxes_seen": 4,
+        "occupied_boxes_seen": 1,
+        "signup_visible": true,
+        "title": "Partida Pádel 5,00 - 10,00 01/08/2026 18:30 AUTOLAVADO GAVIMAR"
+      }
+    }
+  ]
+}
