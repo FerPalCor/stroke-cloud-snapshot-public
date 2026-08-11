@@ -1,15 +1,15 @@
 {
   "collector": "stroke-github-v1",
   "schema_version": 1,
-  "checked_at": "2026-08-11T13:52:55+02:00",
+  "checked_at": "2026-08-11T15:36:56+02:00",
   "source_url": "https://padelstroke.matchpoint.com.es/Matches/Search.aspx",
   "period_start": "2026-08-11",
   "period_end": "2026-08-16",
   "time_from": "15:30",
   "diagnostics": {
     "success": true,
-    "search_ids_found": 21,
-    "detail_pages_fetched": 21,
+    "search_ids_found": 19,
+    "detail_pages_fetched": 19,
     "detail_pages_failed": 0,
     "failures": []
   },
@@ -78,68 +78,6 @@
         "occupied_boxes_seen": 3,
         "signup_visible": true,
         "title": "Partida Pádel 4,50 - 10,00 11/08/2026 17:00 CLINICA MONLEON"
-      }
-    },
-    {
-      "id": "fa2c0b537cab9da61d7376a4b8ac16fe",
-      "url": "https://padelstroke.matchpoint.com.es/Matches/Match.aspx?id=fa2c0b537cab9da61d7376a4b8ac16fe",
-      "date": "2026-08-11",
-      "start_time": "18:30",
-      "end_time": "20:00",
-      "min_level": 5.5,
-      "max_level": 10.0,
-      "category": "Mixto",
-      "players": [
-        {
-          "name": "J1",
-          "level": 5.5
-        },
-        {
-          "name": "J2",
-          "level": 5.5
-        },
-        {
-          "name": "J3",
-          "level": 5.5
-        }
-      ],
-      "free_slots": 1,
-      "available": true,
-      "evidence": {
-        "literal_vacant_boxes": 1,
-        "player_boxes_seen": 4,
-        "occupied_boxes_seen": 3,
-        "signup_visible": true,
-        "title": "Partida Pádel 5,50 - 10,00 11/08/2026 18:30 AUTOLAVADO GAVIMAR"
-      }
-    },
-    {
-      "id": "b6d5aabc69ae3e0f101d05fdbb673b27",
-      "url": "https://padelstroke.matchpoint.com.es/Matches/Match.aspx?id=b6d5aabc69ae3e0f101d05fdbb673b27",
-      "date": "2026-08-11",
-      "start_time": "20:00",
-      "end_time": "21:30",
-      "min_level": 6.0,
-      "max_level": 10.0,
-      "category": "Mixto",
-      "players": [
-        {
-          "name": "J1",
-          "level": 6.0
-        },
-        {
-          "name": "J2",
-          "level": 6.5
-        }
-      ],
-      "free_slots": 2,
-      "available": true,
-      "evidence": {
-        "literal_vacant_boxes": 2,
-        "player_boxes_seen": 4,
-        "occupied_boxes_seen": 2,
-        "signup_visible": true,
-        "title": "Partida Pádel 6,00 - 10,00 11/08/2026 20:00 AUTOLAVADO GAVIMAR"
       }
     },
     {
