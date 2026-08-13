@@ -1,7 +1,7 @@
 {
   "collector": "stroke-github-v1",
   "schema_version": 1,
-  "checked_at": "2026-08-13T15:40:17+02:00",
+  "checked_at": "2026-08-13T17:11:18+02:00",
   "source_url": "https://padelstroke.matchpoint.com.es/Matches/Search.aspx",
   "period_start": "2026-08-13",
   "period_end": "2026-08-16",
@@ -45,6 +45,31 @@
         "occupied_boxes_seen": 3,
         "signup_visible": true,
         "title": "Partida Pádel 5,00 - 10,00 13/08/2026 19:30 CLINICA MONLEON"
+      }
+    },
+    {
+      "id": "ede4fea1b8678e857ea3e1d005612a90",
+      "url": "https://padelstroke.matchpoint.com.es/Matches/Match.aspx?id=ede4fea1b8678e857ea3e1d005612a90",
+      "date": "2026-08-14",
+      "start_time": "16:00",
+      "end_time": "17:30",
+      "min_level": 5.5,
+      "max_level": 10.0,
+      "category": "Mixto",
+      "players": [
+        {
+          "name": "J1",
+          "level": 6.0
+        }
+      ],
+      "free_slots": 3,
+      "available": true,
+      "evidence": {
+        "literal_vacant_boxes": 3,
+        "player_boxes_seen": 4,
+        "occupied_boxes_seen": 1,
+        "signup_visible": true,
+        "title": "Partida Pádel 5,50 - 10,00 14/08/2026 16:00 AUTOLAVADO GAVIMAR"
       }
     },
     {
