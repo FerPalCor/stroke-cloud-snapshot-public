@@ -1,7 +1,7 @@
 {
   "collector": "stroke-github-v1",
   "schema_version": 1,
-  "checked_at": "2026-08-14T06:57:58+02:00",
+  "checked_at": "2026-08-14T08:39:24+02:00",
   "source_url": "https://padelstroke.matchpoint.com.es/Matches/Search.aspx",
   "period_start": "2026-08-14",
   "period_end": "2026-08-16",
@@ -14,6 +14,35 @@
     "failures": []
   },
   "matches": [
+    {
+      "id": "61f67094dcf1f0e8b40ab206c35b1351",
+      "url": "https://padelstroke.matchpoint.com.es/Matches/Match.aspx?id=61f67094dcf1f0e8b40ab206c35b1351",
+      "date": "2026-08-14",
+      "start_time": "16:00",
+      "end_time": "17:30",
+      "min_level": 7.0,
+      "max_level": 10.0,
+      "category": "Mixto",
+      "players": [
+        {
+          "name": "J1",
+          "level": 8.0
+        },
+        {
+          "name": "J2",
+          "level": 6.5
+        }
+      ],
+      "free_slots": 2,
+      "available": true,
+      "evidence": {
+        "literal_vacant_boxes": 2,
+        "player_boxes_seen": 4,
+        "occupied_boxes_seen": 2,
+        "signup_visible": true,
+        "title": "Partida Pádel 7,00 - 10,00 14/08/2026 16:00 AUTOLAVADO GAVIMAR"
+      }
+    },
     {
       "id": "ede4fea1b8678e857ea3e1d005612a90",
       "url": "https://padelstroke.matchpoint.com.es/Matches/Match.aspx?id=ede4fea1b8678e857ea3e1d005612a90",
@@ -44,36 +73,7 @@
         "player_boxes_seen": 4,
         "occupied_boxes_seen": 3,
         "signup_visible": true,
-        "title": "Partida Pádel 5,50 - 10,00 14/08/2026 16:00 AUTOLAVADO GAVIMAR"
-      }
-    },
-    {
-      "id": "61f67094dcf1f0e8b40ab206c35b1351",
-      "url": "https://padelstroke.matchpoint.com.es/Matches/Match.aspx?id=61f67094dcf1f0e8b40ab206c35b1351",
-      "date": "2026-08-14",
-      "start_time": "17:00",
-      "end_time": "18:30",
-      "min_level": 7.0,
-      "max_level": 10.0,
-      "category": "Mixto",
-      "players": [
-        {
-          "name": "J1",
-          "level": 8.0
-        },
-        {
-          "name": "J2",
-          "level": 6.5
-        }
-      ],
-      "free_slots": 2,
-      "available": true,
-      "evidence": {
-        "literal_vacant_boxes": 2,
-        "player_boxes_seen": 4,
-        "occupied_boxes_seen": 2,
-        "signup_visible": true,
-        "title": "Partida Pádel 7,00 - 10,00 14/08/2026 17:00 SEGUROS ALONSO"
+        "title": "Partida Pádel 5,50 - 10,00 14/08/2026 16:00 CLINICA MONLEON"
       }
     },
     {
@@ -82,7 +82,7 @@
       "date": "2026-08-15",
       "start_time": "17:00",
       "end_time": "18:30",
-      "min_level": 6.0,
+      "min_level": 5.5,
       "max_level": 10.0,
       "category": "Masculino",
       "players": [
@@ -98,7 +98,7 @@
         "player_boxes_seen": 4,
         "occupied_boxes_seen": 1,
         "signup_visible": true,
-        "title": "Partida Pádel 6,00 - 10,00 15/08/2026 17:00 SEGUROS ALONSO"
+        "title": "Partida Pádel 5,50 - 10,00 15/08/2026 17:00 SEGUROS ALONSO"
       }
     },
     {
