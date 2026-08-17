@@ -1,36 +1,65 @@
 {
   "collector": "stroke-github-v1",
   "schema_version": 1,
-  "checked_at": "2026-08-17T09:12:55+02:00",
+  "checked_at": "2026-08-17T10:56:57+02:00",
   "source_url": "https://padelstroke.matchpoint.com.es/Matches/Search.aspx",
   "period_start": "2026-08-17",
   "period_end": "2026-08-23",
   "time_from": "15:30",
   "diagnostics": {
     "success": true,
-    "search_ids_found": 10,
-    "detail_pages_fetched": 10,
+    "search_ids_found": 13,
+    "detail_pages_fetched": 13,
     "detail_pages_failed": 0,
     "failures": []
   },
   "matches": [
     {
-      "id": "baf0b55575074f30afcd623d30097620",
-      "url": "https://padelstroke.matchpoint.com.es/Matches/Match.aspx?id=baf0b55575074f30afcd623d30097620",
+      "id": "d9569baf289911782cbeb87dbe882d75",
+      "url": "https://padelstroke.matchpoint.com.es/Matches/Match.aspx?id=d9569baf289911782cbeb87dbe882d75",
       "date": "2026-08-17",
-      "start_time": "17:00",
-      "end_time": "18:30",
-      "min_level": 6.5,
+      "start_time": "16:30",
+      "end_time": "18:00",
+      "min_level": 5.0,
       "max_level": 10.0,
       "category": "Mixto",
       "players": [
         {
           "name": "J1",
-          "level": 6.5
+          "level": 5.0
         },
         {
           "name": "J2",
-          "level": 7.0
+          "level": null
+        }
+      ],
+      "free_slots": 2,
+      "available": true,
+      "evidence": {
+        "literal_vacant_boxes": 2,
+        "player_boxes_seen": 4,
+        "occupied_boxes_seen": 2,
+        "signup_visible": true,
+        "title": "Partida Pádel 5,00 - 10,00 17/08/2026 16:30 SEGUROS ALONSO"
+      }
+    },
+    {
+      "id": "494320c16ba7d190e3065fc35f4a5176",
+      "url": "https://padelstroke.matchpoint.com.es/Matches/Match.aspx?id=494320c16ba7d190e3065fc35f4a5176",
+      "date": "2026-08-17",
+      "start_time": "20:30",
+      "end_time": "22:00",
+      "min_level": 6.0,
+      "max_level": 10.0,
+      "category": "Femenino",
+      "players": [
+        {
+          "name": "J1",
+          "level": 6.0
+        },
+        {
+          "name": "J2",
+          "level": null
         },
         {
           "name": "J3",
@@ -44,15 +73,15 @@
         "player_boxes_seen": 4,
         "occupied_boxes_seen": 3,
         "signup_visible": true,
-        "title": "Partida Pádel 6,50 - 10,00 17/08/2026 17:00 AUTOLAVADO GAVIMAR"
+        "title": "Partida Pádel 6,00 - 10,00 17/08/2026 20:30 CLINICA MONLEON"
       }
     },
     {
       "id": "e4c8caa8656ac502fb69c6e571197140",
       "url": "https://padelstroke.matchpoint.com.es/Matches/Match.aspx?id=e4c8caa8656ac502fb69c6e571197140",
       "date": "2026-08-17",
-      "start_time": "20:30",
-      "end_time": "22:00",
+      "start_time": "21:00",
+      "end_time": "22:30",
       "min_level": 6.0,
       "max_level": 10.0,
       "category": "Mixto",
@@ -64,24 +93,28 @@
         {
           "name": "J2",
           "level": 6.0
+        },
+        {
+          "name": "J3",
+          "level": 6.5
         }
       ],
-      "free_slots": 2,
+      "free_slots": 1,
       "available": true,
       "evidence": {
-        "literal_vacant_boxes": 2,
+        "literal_vacant_boxes": 1,
         "player_boxes_seen": 4,
-        "occupied_boxes_seen": 2,
+        "occupied_boxes_seen": 3,
         "signup_visible": true,
-        "title": "Partida Pádel 6,00 - 10,00 17/08/2026 20:30 CLINICA MONLEON"
+        "title": "Partida Pádel 6,00 - 10,00 17/08/2026 21:00 SEGUROS ALONSO"
       }
     },
     {
       "id": "77b034b8dcd20b99dd07e3ecd302d0e9",
       "url": "https://padelstroke.matchpoint.com.es/Matches/Match.aspx?id=77b034b8dcd20b99dd07e3ecd302d0e9",
       "date": "2026-08-17",
-      "start_time": "21:00",
-      "end_time": "22:30",
+      "start_time": "21:30",
+      "end_time": "23:00",
       "min_level": 5.5,
       "max_level": 6.5,
       "category": "Masculino",
@@ -98,7 +131,36 @@
         "player_boxes_seen": 4,
         "occupied_boxes_seen": 1,
         "signup_visible": true,
-        "title": "Partida Pádel 5,50 - 6,50 17/08/2026 21:00 SEGUROS ALONSO"
+        "title": "Partida Pádel 5,50 - 6,50 17/08/2026 21:30 AUTOLAVADO GAVIMAR"
+      }
+    },
+    {
+      "id": "b490ec87913653a35e6423635b8da5cd",
+      "url": "https://padelstroke.matchpoint.com.es/Matches/Match.aspx?id=b490ec87913653a35e6423635b8da5cd",
+      "date": "2026-08-18",
+      "start_time": "15:30",
+      "end_time": "17:00",
+      "min_level": 5.5,
+      "max_level": 5.5,
+      "category": "Mixto",
+      "players": [
+        {
+          "name": "J1",
+          "level": 5.5
+        },
+        {
+          "name": "J2",
+          "level": 5.5
+        }
+      ],
+      "free_slots": 2,
+      "available": true,
+      "evidence": {
+        "literal_vacant_boxes": 2,
+        "player_boxes_seen": 4,
+        "occupied_boxes_seen": 2,
+        "signup_visible": true,
+        "title": "Partida Pádel 5,50 18/08/2026 15:30 SEGUROS ALONSO"
       }
     },
     {
@@ -124,6 +186,31 @@
         "occupied_boxes_seen": 1,
         "signup_visible": true,
         "title": "Partida Pádel 7,50 - 10,00 18/08/2026 17:00 SEGUROS ALONSO"
+      }
+    },
+    {
+      "id": "60eff2aef80349b64a8fcbf91eb0abb0",
+      "url": "https://padelstroke.matchpoint.com.es/Matches/Match.aspx?id=60eff2aef80349b64a8fcbf91eb0abb0",
+      "date": "2026-08-18",
+      "start_time": "20:00",
+      "end_time": "21:30",
+      "min_level": 5.5,
+      "max_level": 10.0,
+      "category": "Mixto",
+      "players": [
+        {
+          "name": "J1",
+          "level": 6.0
+        }
+      ],
+      "free_slots": 3,
+      "available": true,
+      "evidence": {
+        "literal_vacant_boxes": 3,
+        "player_boxes_seen": 4,
+        "occupied_boxes_seen": 1,
+        "signup_visible": true,
+        "title": "Partida Pádel 5,50 - 10,00 18/08/2026 20:00 AUTOLAVADO GAVIMAR"
       }
     },
     {
@@ -173,7 +260,7 @@
         "player_boxes_seen": 4,
         "occupied_boxes_seen": 1,
         "signup_visible": true,
-        "title": "Partida Pádel 6,00 - 10,00 21/08/2026 17:00 SEGUROS ALONSO"
+        "title": "Partida Pádel 6,00 - 10,00 21/08/2026 17:00 AUTOLAVADO GAVIMAR"
       }
     },
     {
