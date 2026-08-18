@@ -1,7 +1,7 @@
 {
   "collector": "stroke-github-v1",
   "schema_version": 1,
-  "checked_at": "2026-08-18T13:36:05+02:00",
+  "checked_at": "2026-08-18T15:04:26+02:00",
   "source_url": "https://padelstroke.matchpoint.com.es/Matches/Search.aspx",
   "period_start": "2026-08-18",
   "period_end": "2026-08-23",
@@ -48,36 +48,28 @@
       }
     },
     {
-      "id": "cc06d0da6207950078d50713861693e9",
-      "url": "https://padelstroke.matchpoint.com.es/Matches/Match.aspx?id=cc06d0da6207950078d50713861693e9",
+      "id": "9b7aa4434df0266f41ac45481d7a165b",
+      "url": "https://padelstroke.matchpoint.com.es/Matches/Match.aspx?id=9b7aa4434df0266f41ac45481d7a165b",
       "date": "2026-08-18",
-      "start_time": "17:00",
-      "end_time": "18:30",
-      "min_level": 7.0,
+      "start_time": "19:00",
+      "end_time": "20:30",
+      "min_level": 6.0,
       "max_level": 10.0,
       "category": "Mixto",
       "players": [
         {
           "name": "J1",
-          "level": 7.5
-        },
-        {
-          "name": "J2",
-          "level": 8.0
-        },
-        {
-          "name": "J3",
-          "level": 7.0
+          "level": 6.0
         }
       ],
-      "free_slots": 1,
+      "free_slots": 3,
       "available": true,
       "evidence": {
-        "literal_vacant_boxes": 1,
+        "literal_vacant_boxes": 3,
         "player_boxes_seen": 4,
-        "occupied_boxes_seen": 3,
+        "occupied_boxes_seen": 1,
         "signup_visible": true,
-        "title": "Partida Pádel 7,00 - 10,00 18/08/2026 17:00 SEGUROS ALONSO"
+        "title": "Partida Pádel 6,00 - 10,00 18/08/2026 19:00 CLINICA MONLEON"
       }
     },
     {
