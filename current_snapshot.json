@@ -1,15 +1,15 @@
 {
   "collector": "stroke-github-v1",
   "schema_version": 1,
-  "checked_at": "2026-08-18T11:45:41+02:00",
+  "checked_at": "2026-08-18T12:43:15+02:00",
   "source_url": "https://padelstroke.matchpoint.com.es/Matches/Search.aspx",
   "period_start": "2026-08-18",
   "period_end": "2026-08-23",
   "time_from": "15:30",
   "diagnostics": {
     "success": true,
-    "search_ids_found": 10,
-    "detail_pages_fetched": 10,
+    "search_ids_found": 12,
+    "detail_pages_fetched": 12,
     "detail_pages_failed": 0,
     "failures": []
   },
@@ -55,19 +55,15 @@
       "players": [
         {
           "name": "J1",
-          "level": 8.0
-        },
-        {
-          "name": "J2",
           "level": 7.5
         }
       ],
-      "free_slots": 2,
+      "free_slots": 3,
       "available": true,
       "evidence": {
-        "literal_vacant_boxes": 2,
+        "literal_vacant_boxes": 3,
         "player_boxes_seen": 4,
-        "occupied_boxes_seen": 2,
+        "occupied_boxes_seen": 1,
         "signup_visible": true,
         "title": "Partida Pádel 7,00 - 10,00 18/08/2026 17:00 SEGUROS ALONSO"
       }
