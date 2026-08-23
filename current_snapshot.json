@@ -1,15 +1,15 @@
 {
   "collector": "stroke-github-v1",
   "schema_version": 1,
-  "checked_at": "2026-08-23T08:57:35+02:00",
+  "checked_at": "2026-08-23T09:43:47+02:00",
   "source_url": "https://padelstroke.matchpoint.com.es/Matches/Search.aspx",
   "period_start": "2026-08-23",
   "period_end": "2026-08-23",
   "time_from": "15:30",
   "diagnostics": {
     "success": true,
-    "search_ids_found": 8,
-    "detail_pages_fetched": 8,
+    "search_ids_found": 9,
+    "detail_pages_fetched": 9,
     "detail_pages_failed": 0,
     "failures": []
   },
