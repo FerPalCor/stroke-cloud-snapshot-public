@@ -1,15 +1,15 @@
 {
   "collector": "stroke-github-v1",
   "schema_version": 1,
-  "checked_at": "2026-08-26T13:40:15+02:00",
+  "checked_at": "2026-08-26T15:12:26+02:00",
   "source_url": "https://padelstroke.matchpoint.com.es/Matches/Search.aspx",
   "period_start": "2026-08-26",
   "period_end": "2026-08-30",
   "time_from": "15:30",
   "diagnostics": {
     "success": true,
-    "search_ids_found": 15,
-    "detail_pages_fetched": 15,
+    "search_ids_found": 16,
+    "detail_pages_fetched": 16,
     "detail_pages_failed": 0,
     "failures": []
   },
@@ -305,14 +305,18 @@
         {
           "name": "J2",
           "level": 7.0
+        },
+        {
+          "name": "J3",
+          "level": 7.0
         }
       ],
-      "free_slots": 2,
+      "free_slots": 1,
       "available": true,
       "evidence": {
-        "literal_vacant_boxes": 2,
+        "literal_vacant_boxes": 1,
         "player_boxes_seen": 4,
-        "occupied_boxes_seen": 2,
+        "occupied_boxes_seen": 3,
         "signup_visible": true,
         "title": "Partida Pádel 7,00 - 10,00 29/08/2026 17:00 AUTOLAVADO GAVIMAR"
       }
