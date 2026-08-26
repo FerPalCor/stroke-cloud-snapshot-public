@@ -1,85 +1,19 @@
 {
   "collector": "stroke-github-v1",
   "schema_version": 1,
-  "checked_at": "2026-08-26T16:57:59+02:00",
+  "checked_at": "2026-08-26T18:32:36+02:00",
   "source_url": "https://padelstroke.matchpoint.com.es/Matches/Search.aspx",
   "period_start": "2026-08-26",
   "period_end": "2026-08-30",
   "time_from": "15:30",
   "diagnostics": {
     "success": true,
-    "search_ids_found": 16,
-    "detail_pages_fetched": 16,
+    "search_ids_found": 14,
+    "detail_pages_fetched": 14,
     "detail_pages_failed": 0,
     "failures": []
   },
   "matches": [
-    {
-      "id": "7a230309c8631c0d5cce6bef8e68e26d",
-      "url": "https://padelstroke.matchpoint.com.es/Matches/Match.aspx?id=7a230309c8631c0d5cce6bef8e68e26d",
-      "date": "2026-08-26",
-      "start_time": "19:30",
-      "end_time": "21:00",
-      "min_level": 6.0,
-      "max_level": 10.0,
-      "category": "Mixto",
-      "players": [
-        {
-          "name": "J1",
-          "level": 6.5
-        },
-        {
-          "name": "J2",
-          "level": 6.5
-        },
-        {
-          "name": "J3",
-          "level": 6.5
-        }
-      ],
-      "free_slots": 1,
-      "available": true,
-      "evidence": {
-        "literal_vacant_boxes": 1,
-        "player_boxes_seen": 4,
-        "occupied_boxes_seen": 3,
-        "signup_visible": true,
-        "title": "Partida Pádel 6,00 - 10,00 26/08/2026 19:30 AUTOLAVADO GAVIMAR"
-      }
-    },
-    {
-      "id": "c31a52aa8e7972af927e6f81a6362357",
-      "url": "https://padelstroke.matchpoint.com.es/Matches/Match.aspx?id=c31a52aa8e7972af927e6f81a6362357",
-      "date": "2026-08-26",
-      "start_time": "20:00",
-      "end_time": "21:30",
-      "min_level": 5.0,
-      "max_level": 10.0,
-      "category": "Mixto",
-      "players": [
-        {
-          "name": "J1",
-          "level": 5.0
-        },
-        {
-          "name": "J2",
-          "level": null
-        },
-        {
-          "name": "J3",
-          "level": null
-        }
-      ],
-      "free_slots": 1,
-      "available": true,
-      "evidence": {
-        "literal_vacant_boxes": 1,
-        "player_boxes_seen": 4,
-        "occupied_boxes_seen": 3,
-        "signup_visible": true,
-        "title": "Partida Pádel 5,00 - 10,00 26/08/2026 20:00 SEGUROS ALONSO"
-      }
-    },
     {
       "id": "0be9e9ae23fe4e17a26b69f7e6504b3a",
       "url": "https://padelstroke.matchpoint.com.es/Matches/Match.aspx?id=0be9e9ae23fe4e17a26b69f7e6504b3a",
@@ -97,14 +31,18 @@
         {
           "name": "J2",
           "level": 7.5
+        },
+        {
+          "name": "J3",
+          "level": 8.0
         }
       ],
-      "free_slots": 2,
+      "free_slots": 1,
       "available": true,
       "evidence": {
-        "literal_vacant_boxes": 2,
+        "literal_vacant_boxes": 1,
         "player_boxes_seen": 4,
-        "occupied_boxes_seen": 2,
+        "occupied_boxes_seen": 3,
         "signup_visible": true,
         "title": "Partida Pádel 8,00 - 10,00 27/08/2026 16:00 AUTOLAVADO GAVIMAR"
       }
@@ -161,39 +99,6 @@
         "occupied_boxes_seen": 1,
         "signup_visible": true,
         "title": "Partida Pádel 7,00 - 10,00 27/08/2026 18:00 SEGUROS ALONSO"
-      }
-    },
-    {
-      "id": "a83008d438a07aac85f57f8fb2118d1e",
-      "url": "https://padelstroke.matchpoint.com.es/Matches/Match.aspx?id=a83008d438a07aac85f57f8fb2118d1e",
-      "date": "2026-08-27",
-      "start_time": "19:00",
-      "end_time": "20:30",
-      "min_level": 5.0,
-      "max_level": 10.0,
-      "category": "Mixto",
-      "players": [
-        {
-          "name": "J1",
-          "level": 5.0
-        },
-        {
-          "name": "J2",
-          "level": 5.0
-        },
-        {
-          "name": "J3",
-          "level": 5.0
-        }
-      ],
-      "free_slots": 1,
-      "available": true,
-      "evidence": {
-        "literal_vacant_boxes": 1,
-        "player_boxes_seen": 4,
-        "occupied_boxes_seen": 3,
-        "signup_visible": true,
-        "title": "Partida Pádel 5,00 - 10,00 27/08/2026 19:00 AUTOLAVADO GAVIMAR"
       }
     },
     {
