@@ -1,15 +1,15 @@
 {
   "collector": "stroke-github-v1",
   "schema_version": 1,
-  "checked_at": "2026-08-31T21:59:21+02:00",
+  "checked_at": "2026-09-01T01:47:40+02:00",
   "source_url": "https://padelstroke.matchpoint.com.es/Matches/Search.aspx",
-  "period_start": "2026-08-31",
+  "period_start": "2026-09-01",
   "period_end": "2026-09-06",
   "time_from": "15:30",
   "diagnostics": {
     "success": true,
-    "search_ids_found": 15,
-    "detail_pages_fetched": 15,
+    "search_ids_found": 18,
+    "detail_pages_fetched": 18,
     "detail_pages_failed": 0,
     "failures": []
   },
@@ -182,6 +182,31 @@
         "occupied_boxes_seen": 2,
         "signup_visible": true,
         "title": "Partida Pádel 5,50 - 6,50 02/09/2026 20:00 SEGUROS ALONSO"
+      }
+    },
+    {
+      "id": "a928b249baebfac2315c884323a4fb94",
+      "url": "https://padelstroke.matchpoint.com.es/Matches/Match.aspx?id=a928b249baebfac2315c884323a4fb94",
+      "date": "2026-09-03",
+      "start_time": "18:30",
+      "end_time": "20:00",
+      "min_level": 6.0,
+      "max_level": 10.0,
+      "category": "Mixto",
+      "players": [
+        {
+          "name": "J1",
+          "level": 6.0
+        }
+      ],
+      "free_slots": 3,
+      "available": true,
+      "evidence": {
+        "literal_vacant_boxes": 3,
+        "player_boxes_seen": 4,
+        "occupied_boxes_seen": 1,
+        "signup_visible": true,
+        "title": "Partida Pádel 6,00 - 10,00 03/09/2026 18:30 SEGUROS ALONSO"
       }
     },
     {
