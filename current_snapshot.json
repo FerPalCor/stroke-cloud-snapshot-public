@@ -1,19 +1,52 @@
 {
   "collector": "stroke-github-v1",
   "schema_version": 1,
-  "checked_at": "2026-09-08T06:27:44+02:00",
+  "checked_at": "2026-09-08T11:35:54+02:00",
   "source_url": "https://padelstroke.matchpoint.com.es/Matches/Search.aspx",
   "period_start": "2026-09-08",
   "period_end": "2026-09-13",
   "time_from": "15:30",
   "diagnostics": {
     "success": true,
-    "search_ids_found": 18,
-    "detail_pages_fetched": 18,
+    "search_ids_found": 17,
+    "detail_pages_fetched": 17,
     "detail_pages_failed": 0,
     "failures": []
   },
   "matches": [
+    {
+      "id": "3e97d44cc086416263510d723406fcf6",
+      "url": "https://padelstroke.matchpoint.com.es/Matches/Match.aspx?id=3e97d44cc086416263510d723406fcf6",
+      "date": "2026-09-08",
+      "start_time": "19:30",
+      "end_time": "21:00",
+      "min_level": 7.5,
+      "max_level": 10.0,
+      "category": "Mixto",
+      "players": [
+        {
+          "name": "J1",
+          "level": 7.5
+        },
+        {
+          "name": "J2",
+          "level": 7.5
+        },
+        {
+          "name": "J3",
+          "level": 7.5
+        }
+      ],
+      "free_slots": 1,
+      "available": true,
+      "evidence": {
+        "literal_vacant_boxes": 1,
+        "player_boxes_seen": 4,
+        "occupied_boxes_seen": 3,
+        "signup_visible": true,
+        "title": "Partida Pádel 7,50 - 10,00 08/09/2026 19:30 SEGUROS ALONSO"
+      }
+    },
     {
       "id": "3a4fe19f2817b71cc3afcaa1cdf74952",
       "url": "https://padelstroke.matchpoint.com.es/Matches/Match.aspx?id=3a4fe19f2817b71cc3afcaa1cdf74952",
@@ -31,14 +64,18 @@
         {
           "name": "J2",
           "level": 5.0
+        },
+        {
+          "name": "J3",
+          "level": 5.0
         }
       ],
-      "free_slots": 2,
+      "free_slots": 1,
       "available": true,
       "evidence": {
-        "literal_vacant_boxes": 2,
+        "literal_vacant_boxes": 1,
         "player_boxes_seen": 4,
-        "occupied_boxes_seen": 2,
+        "occupied_boxes_seen": 3,
         "signup_visible": true,
         "title": "Partida Pádel 5,00 - 10,00 08/09/2026 21:00 SEGUROS ALONSO"
       }
@@ -47,8 +84,8 @@
       "id": "7c1b3727d7406dfcd3621ef86f8c3e96",
       "url": "https://padelstroke.matchpoint.com.es/Matches/Match.aspx?id=7c1b3727d7406dfcd3621ef86f8c3e96",
       "date": "2026-09-09",
-      "start_time": "15:30",
-      "end_time": "17:00",
+      "start_time": "16:00",
+      "end_time": "17:30",
       "min_level": 6.5,
       "max_level": 10.0,
       "category": "Mixto",
@@ -65,7 +102,7 @@
         "player_boxes_seen": 4,
         "occupied_boxes_seen": 1,
         "signup_visible": true,
-        "title": "Partida Pádel 6,50 - 10,00 09/09/2026 15:30 SEGUROS ALONSO"
+        "title": "Partida Pádel 6,50 - 10,00 09/09/2026 16:00 CLINICA MONLEON"
       }
     },
     {
@@ -103,7 +140,7 @@
       "date": "2026-09-10",
       "start_time": "15:30",
       "end_time": "17:00",
-      "min_level": 1.0,
+      "min_level": 6.0,
       "max_level": 10.0,
       "category": "Mixto",
       "players": [
@@ -123,7 +160,7 @@
         "player_boxes_seen": 4,
         "occupied_boxes_seen": 2,
         "signup_visible": true,
-        "title": "Partida Pádel 1,00 - 10,00 10/09/2026 15:30 SEGUROS ALONSO"
+        "title": "Partida Pádel 6,00 - 10,00 10/09/2026 15:30 SEGUROS ALONSO"
       }
     },
     {
@@ -149,6 +186,39 @@
         "occupied_boxes_seen": 1,
         "signup_visible": true,
         "title": "Partida Pádel 5,00 - 10,00 10/09/2026 17:00 SEGUROS ALONSO"
+      }
+    },
+    {
+      "id": "20a4c92b334b37917a7748b22d849224",
+      "url": "https://padelstroke.matchpoint.com.es/Matches/Match.aspx?id=20a4c92b334b37917a7748b22d849224",
+      "date": "2026-09-10",
+      "start_time": "18:30",
+      "end_time": "20:00",
+      "min_level": 6.0,
+      "max_level": 10.0,
+      "category": "Mixto",
+      "players": [
+        {
+          "name": "J1",
+          "level": 6.0
+        },
+        {
+          "name": "J2",
+          "level": 6.0
+        },
+        {
+          "name": "J3",
+          "level": 6.5
+        }
+      ],
+      "free_slots": 1,
+      "available": true,
+      "evidence": {
+        "literal_vacant_boxes": 1,
+        "player_boxes_seen": 4,
+        "occupied_boxes_seen": 3,
+        "signup_visible": true,
+        "title": "Partida Pádel 6,00 - 10,00 10/09/2026 18:30 SEGUROS ALONSO"
       }
     },
     {
