@@ -1,9 +1,9 @@
 {
   "collector": "stroke-github-v1",
   "schema_version": 1,
-  "checked_at": "2026-09-12T21:18:33+02:00",
+  "checked_at": "2026-09-13T00:13:19+02:00",
   "source_url": "https://padelstroke.matchpoint.com.es/Matches/Search.aspx",
-  "period_start": "2026-09-12",
+  "period_start": "2026-09-13",
   "period_end": "2026-09-13",
   "time_from": "15:30",
   "diagnostics": {
@@ -14,6 +14,31 @@
     "failures": []
   },
   "matches": [
+    {
+      "id": "6c1c21051c4324c6fcdc7ad7511a3685",
+      "url": "https://padelstroke.matchpoint.com.es/Matches/Match.aspx?id=6c1c21051c4324c6fcdc7ad7511a3685",
+      "date": "2026-09-13",
+      "start_time": "17:00",
+      "end_time": "18:30",
+      "min_level": 6.5,
+      "max_level": 10.0,
+      "category": "Mixto",
+      "players": [
+        {
+          "name": "J1",
+          "level": 6.0
+        }
+      ],
+      "free_slots": 3,
+      "available": true,
+      "evidence": {
+        "literal_vacant_boxes": 3,
+        "player_boxes_seen": 4,
+        "occupied_boxes_seen": 1,
+        "signup_visible": true,
+        "title": "Partida Pádel 6,50 - 10,00 13/09/2026 17:00 SEGUROS ALONSO"
+      }
+    },
     {
       "id": "c0318a6e3e923285a784bc81f0b2bc7c",
       "url": "https://padelstroke.matchpoint.com.es/Matches/Match.aspx?id=c0318a6e3e923285a784bc81f0b2bc7c",
